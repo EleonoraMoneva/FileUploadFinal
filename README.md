@@ -21,7 +21,7 @@ Before getting started, ensure that you have the following software installed on
      ```
 
 3. **Set Up the Database:**
-   - Open `appsettings.json` in the `FileUpload` project and configure the connection string.
+   - Open `appsettings.json` in the `FileUpload.Context` and 'Program.cs' in FileUpload.Api project and configure the connection string.
    - Run the following commands in the Package Manager Console or Terminal:
 
      ```bash
